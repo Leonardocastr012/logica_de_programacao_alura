@@ -1,2 +1,12 @@
 # logica_de_programacao_alura
- Curso focado na aprendizagem de lógica de programação usando a linguagem Javascript
+## Aprendendo lógica com *JavaScript*, o curso é separado em 5 módulos:
+### *> Iniciando com JavaScript*
+-
+### *> Condicionais e concatenação*
+-
+### *> Loops e tentativas*
+-
+### *> Boas Práticas de programção*
+-
+### *> Desafio*
+-
