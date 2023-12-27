@@ -7,7 +7,7 @@
 ### *> Loops e tentativas*
 -Foi ensinado os condicionais aninhados, o loop while e o uso de um contador
 ### *> Boas Práticas de programção*
--
+-Foi ensinado o uso da biblioteca do Math.Random(), o uso do parseInt e o uso do operador ternário
 ### *> Desafio*
 -
 
