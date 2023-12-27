@@ -11,7 +11,7 @@ while(chute != numeroSecreto){
     console.log('Resultado da comparação: ', numeroSecreto == chute);
     if (numeroSecreto == chute){
         //alert('Isso aí! Você descobriu o número secreto é o' + numeroSecreto); 
-        alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativa(s)`); //Usando Template Strings
+        break;
     }
     else {
         console.log('Valor do número secreto:'+ numeroSecreto);
@@ -22,4 +22,9 @@ while(chute != numeroSecreto){
         }
     } 
     tentativas += 1; // or tentativas ++;
-}   
+} 
+if (tentativas == 1){
+    alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativa`); //Usando Template Strings
+} else {
+    alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativas`); //Usando Template Strings
+}
