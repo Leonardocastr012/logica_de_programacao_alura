@@ -23,8 +23,10 @@ while(chute != numeroSecreto){
     } 
     tentativas += 1; // or tentativas ++;
 } 
-if (tentativas == 1){
-    alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativa`); //Usando Template Strings
-} else {
-    alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativas`); //Usando Template Strings
-}
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' //Operador ternário
+alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} ${palavraTentativa}`);
+// if (tentativas == 1){
+//     alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativa`); //Usando Template Strings
+// } else {
+//     alert(`Isso aí! Você descobriu o número secreto é o ${numeroSecreto} e teve ${tentativas} tentativas`); //Usando Template Strings
+// }
