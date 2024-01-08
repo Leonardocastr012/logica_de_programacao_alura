@@ -1,14 +1,26 @@
 # logica_de_programacao_alura
-## Aprendendo lógica com *JavaScript*, o curso é separado em 5 módulos:
-### *> Iniciando com JavaScript*
+## Aprendendo lógica com *JavaScript*:
+## > Projeto 1
+### *>> Iniciando com JavaScript*
 * _Foi ensinado o conceito de variável, uso do alert(exibe mensagem), prompt(exibe mensagem e interage com o usuário) e o condicional if._
-### *> Condicionais e concatenação*
+### *>> Condicionais e concatenação*
 * _Foi ensinado, o uso do condicional else, uso do console.log, concatenação e a aplicação do Template Strings._
-### *> Loops e tentativas*
+### *>> Loops e tentativas*
 * _Foi ensinado os condicionais aninhados, o loop while e o uso de um contador._
-### *> Boas Práticas de programção*
+### *>> Boas Práticas de programção*
 * _Foi ensinado o uso da biblioteca do Math.Random(), o uso do parseInt e o uso do operador ternário._
-### *> Desafio*
+### *>> Desafio*
 * _Nesse desafio foi passado um simples problema do valor máximo de um chute, no qual você alteraria uma variável e modificaria no restante do código, então teve que fazer algumas substituições e o uso da Template String._
+## > Projeto 2
+### *>> Interagindo com HTML*
+* __
+### *>> Funções*
+* __
+### *>> Reiniciando o jogo*
+* __
+### *>> Listas*
+* __
+### *>> Publicando o projeto*
+* __
 
 Acessar a documentação do JS: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
