@@ -13,7 +13,7 @@
 * _Nesse desafio foi passado um simples problema do valor máximo de um chute, no qual você alteraria uma variável e modificaria no restante do código, então teve que fazer algumas substituições e o uso da Template String._
 ## > Projeto 2
 ### *>> Interagindo com HTML*
-* _Foi ensinado com conectar o JS ao html com o uso do document.querySelector() e como alterar com o .innerHTML_
+* _Foi ensinado com conectar o JS ao html com o uso do document.querySelector() e como alterar com o .innerHTML e mostrou o uso de função._
 ### *>> Funções*
 * __
 ### *>> Reiniciando o jogo*
