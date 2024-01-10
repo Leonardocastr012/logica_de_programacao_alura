@@ -14,6 +14,7 @@
 ## > Projeto 2
 ### *>> Interagindo com HTML*
 * _Foi ensinado com conectar o JS ao html com o uso do document.querySelector() e como alterar com o .innerHTML e mostrou o uso de função._
+Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137213
 ### *>> Funções*
 * __
 ### *>> Reiniciando o jogo*
