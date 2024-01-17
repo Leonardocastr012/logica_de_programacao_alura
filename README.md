@@ -1,5 +1,5 @@
 # logica_de_programacao_alura
-## Aprendendo lógica com *JavaScript*:
+# Aprendendo lógica com *JavaScript*:
 ## *> Projeto 1*
 ### *>> Iniciando com JavaScript*
 * _Foi ensinado o conceito de variável, uso do alert(exibe mensagem), prompt(exibe mensagem e interage com o usuário) e o condicional if._
