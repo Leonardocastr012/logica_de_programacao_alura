@@ -19,10 +19,10 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 * _Foi ensinado melhor o uso das funções, return e parâmetros._
 Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137219
 #### *>> Reiniciando o jogo*
-* _03/02/2023_
+* __
 #### *>> Listas*
-* _03/02/2023_
+* _05/02/2023_
 #### *>> Publicando o projeto*
-* _03/02/2023_
+* _06/02/2023_
 
 Acessar a documentação do JS: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
