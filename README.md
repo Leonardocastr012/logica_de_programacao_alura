@@ -19,7 +19,7 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 * _Foi ensinado melhor o uso das funções, return e parâmetros._
 Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137219
 #### *>> Reiniciando o jogo*
-* __
+* _Fo ensinado o aprimoramento das funções, uso de contador para melhorar a experiência do usuário_
 #### *>> Listas*
 * _05/02/2023_
 #### *>> Publicando o projeto*
