@@ -21,7 +21,7 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 #### *>> Reiniciando o jogo*
 * _Fo ensinado o aprimoramento das funções, uso de contador para melhorar a experiência do usuário_
 #### *>> Listas*
-* _08/02/2023_
+* _09/02/2023_
 #### *>> Publicando o projeto*
 * _09/02/2023_
 
