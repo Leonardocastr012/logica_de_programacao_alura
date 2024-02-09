@@ -21,8 +21,8 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 #### *>> Reiniciando o jogo*
 * _Fo ensinado o aprimoramento das funções, uso de contador para melhorar a experiência do usuário_
 #### *>> Listas*
-* _09/02/2023_
+* _10/02/2023_
 #### *>> Publicando o projeto*
-* _09/02/2023_
+* _10/02/2023_
 
 Acessar a documentação do JS: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
