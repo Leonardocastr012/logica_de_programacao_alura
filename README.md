@@ -23,6 +23,6 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 #### *>> Listas*
 * _10/02/2023_
 #### *>> Publicando o projeto*
-* _10/02/2023_
+* __
 
 Acessar a documentação do JS: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
