@@ -27,7 +27,16 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 * _Foi ensinado como abrir, mexer e publicar no GitHub_
 
 ## *> Git e GitHub: compartilhando e colaborando em projetos*
-
+#### *>> Compartilhando projetos*
+* 
+#### *>> Colaborando em projetos*
+*
+#### *>> Utilizando Git na IDE*
+* 
+#### *>> Voltando no tempo*
+* 
+#### *>> Mais recursos*
+* 
 
 ***
 Acessar a documentação do JS: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
