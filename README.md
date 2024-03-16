@@ -30,7 +30,7 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 #### *>> Compartilhando projetos*
 * Criação de conta no GitHub, como criar um repositório, instalação do Git e sincronização de repositório
 #### *>> Colaborando em projetos*
-* Como participar no projeto de outra pessoa
+* 
 #### *>> Utilizando Git na IDE*
 * 
 #### *>> Voltando no tempo*
