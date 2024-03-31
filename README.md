@@ -1,4 +1,5 @@
 # logica_de_programacao_alura
+***
 ## *Aprendendo lógica com JavaScript*:
 ### *> Lógica de programação: mergulhe em promoção com JavaScript*
 #### *>> Iniciando com JavaScript*
@@ -11,7 +12,7 @@
 * _Foi ensinado o uso da biblioteca do Math.Random(), o uso do parseInt e o uso do operador ternário._
 #### *>> Desafio*
 * _Nesse desafio foi passado um simples problema do valor máximo de um chute, no qual você alteraria uma variável e modificaria no restante do código, então teve que fazer algumas substituições e o uso da Template String._
-
+***
 ## *> Lógica de programação: explore funções e listas*
 #### *>> Interagindo com HTML*
 * _Foi ensinado com conectar o JS ao html com o uso do document.querySelector() e como alterar com o .innerHTML e mostrou o uso de função._
@@ -25,7 +26,7 @@ Acessar: https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/ta
 * _Foi ensinado o uso das listas, funções como length e includes_
 #### *>> Publicando o projeto*
 * _Foi ensinado como abrir, mexer e publicar no GitHub_
-
+***
 ## *> Git e GitHub: compartilhando e colaborando em projetos*
 #### *>> Compartilhando projetos*
 * Criação de conta no GitHub, como criar um repositório, instalação do Git e sincronização de repositório
